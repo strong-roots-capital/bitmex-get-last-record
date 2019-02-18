@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/bitmex-get-last-record",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Fetch the most-recent record from BitMEX",
   "main": "dist/bitmex-get-last-record.js",
   "types": "dist/bitmex-get-last-record.d.ts",
