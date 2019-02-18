@@ -53,7 +53,7 @@ Related
 
 ▸ **bitmexGetLastRecord**(query: *[LastCandleQuery](interfaces/lastcandlequery.md)*): `Promise`<`Record`>
 
-*Defined in [bitmex-get-last-record.ts:50](https://github.com/strong-roots-capital/bitmex-get-last-record/blob/6d4097c/src/bitmex-get-last-record.ts#L50)*
+*Defined in [bitmex-get-last-record.ts:50](https://github.com/strong-roots-capital/bitmex-get-last-record/blob/6b5c9b1/src/bitmex-get-last-record.ts#L50)*
 
 Query the most recently-closed Record from BitMEX exchange.
 
